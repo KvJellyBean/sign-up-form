@@ -152,6 +152,11 @@ main #right-side form fieldset .input-form {
     }
 }
 
+main #right-side form fieldset .input-form#pass-form p {
+    font-size: 13px;
+    color: red;
+}
+
 main #right-side .submit-container {
     display: flex;
     flex-direction: column;
